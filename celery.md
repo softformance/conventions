@@ -109,3 +109,4 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 - [Retry Celery tasks with exponential back off](https://stackoverflow.com/questions/9731435/retry-celery-tasks-with-exponential-back-off)
 - [Celery Task Retry Guide by Ines Panker](https://ines-panker.medium.com/celery-task-retry-guide-e47e184a9198)
 - [Celery in the wild: tips and tricks to run async tasks in the real world](https://www.vinta.com.br/blog/2018/celery-wild-tips-and-tricks-run-async-tasks-real-world/)
+- [Common Issues Using Celery (And Other Task Queues)](https://adamj.eu/tech/2020/02/03/common-celery-issues-on-django-projects/)
