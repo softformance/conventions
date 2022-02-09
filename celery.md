@@ -22,7 +22,7 @@ Contents:
 logger = get_task_logger(__name__)
 
 @celery_app.task(bind=True)
-def send_email_to_customer_task(self, *kwargs):
+def send_email_to_customer_task(self, **kwargs):
     logger.info(self.request.id)
 ```
 - Use tiny and simple data structure as task arguments instead of full objects.
@@ -105,6 +105,8 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 - [Celery - Distributed Task Queue](https://docs.celeryproject.org/en/stable/index.html) - official docs
 - [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-celery) - excellent advice how to work with celery on own experience of author
 - [Celery tasks checklist](https://devchecklists.com/celery-tasks-checklist/)
+- [Celery in production: Three more years of fixing bugs](https://medium.com/squad-engineering/celery-in-production-three-more-years-of-fixing-bugs-2ee462cef39f)
+- [5 tips for writing production-ready Celery tasks](https://blog.wolt.com/engineering/2021/09/15/5-tips-for-writing-production-ready-celery-tasks/)
 - [Automatically Retrying Failed Celery Tasks](https://testdriven.io/blog/retrying-failed-celery-tasks/) - one of "Django + Celery" series from [testdriven.io](https://testdriven.io/)
 - [Retry Celery tasks with exponential back off](https://stackoverflow.com/questions/9731435/retry-celery-tasks-with-exponential-back-off)
 - [Celery Task Retry Guide by Ines Panker](https://ines-panker.medium.com/celery-task-retry-guide-e47e184a9198)
