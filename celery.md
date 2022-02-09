@@ -52,7 +52,7 @@ def send_reminder_about_appointment_task(appointment_id: int, **kwargs):
 
 ## Error handling
 
-- Ideally, tasks should be [idempotent](https://docs.celeryproject.org/en/stable/glossary.html#term-idempotent) and atomic.
+- Ideally, tasks should be [idempotent](https://docs.celeryproject.org/en/stable/glossary.html#term-idempotent) and [atomic](https://en.wikipedia.org/wiki/Atomicity_(database_systems)).
 
 Example of idempotent task:
 ```python
