@@ -113,3 +113,4 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 - [Celery in the wild: tips and tricks to run async tasks in the real world](https://www.vinta.com.br/blog/2018/celery-wild-tips-and-tricks-run-async-tasks-real-world/)
 - [Common Issues Using Celery (And Other Task Queues)](https://adamj.eu/tech/2020/02/03/common-celery-issues-on-django-projects/)
 - [Celery: Django Admin Action to Manually Retry Tasks](https://medium.com/@sameer_kumar/celery-django-admin-action-to-manually-retry-tasks-90b8013b0b8f)
+- [Workers, Pool and Concurrency configurations of Python Celery](https://medium.com/analytics-vidhya/python-celery-explained-for-beginners-to-professionals-part-3-workers-pool-and-concurrency-ef0522e89ac5)
