@@ -104,6 +104,7 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 ## Useful links
 
 - [Celery: A Few Gotchas Explained](http://www.ines-panker.com/2020/10/28/celery-explained.html)
+- [Why is Celery not running my task?](https://www.lorenzogil.com/blog/2020/03/01/celery-tasks/) - visual explanation how tasks are distributed
 - [Celery - Distributed Task Queue](https://docs.celeryproject.org/en/stable/index.html) - official docs
 - [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-celery) - excellent advice how to work with celery on own experience of author
 - [Celery tasks checklist](https://devchecklists.com/celery-tasks-checklist/)
