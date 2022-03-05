@@ -118,6 +118,7 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 - [Celery: Django Admin Action to Manually Retry Tasks](https://medium.com/@sameer_kumar/celery-django-admin-action-to-manually-retry-tasks-90b8013b0b8f)
 - [Workers, Pool and Concurrency configurations of Python Celery](https://medium.com/analytics-vidhya/python-celery-explained-for-beginners-to-professionals-part-3-workers-pool-and-concurrency-ef0522e89ac5)
 - [How we scaled Celery for our Django app](https://vedantsopinions.medium.com/how-we-scaled-celery-for-our-django-app-da2465a3a6be)
+- [Key Insights to Celery](https://sanchit-ahuja.medium.com/key-insights-to-celery-29e840d5df6d)
 
 
 ## Extensions
