@@ -136,3 +136,5 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 - [celery-exporter](https://github.com/danihodovic/celery-exporter)
 - [celery-dyrygent](https://github.com/ovh/celery-dyrygent)
 - [celery-types](https://github.com/sbdchd/celery-types)
+- [django-celery-growthmonitor
+Public](https://github.com/mbourqui/django-celery-growthmonitor/)
