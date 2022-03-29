@@ -11,3 +11,4 @@ Inspired after reading [this reposity ](https://github.com/octoenergy/convention
 Contents:
 
 - [Celery](celery.md)
+- [Django: Business logic](django/business_logic.md)
