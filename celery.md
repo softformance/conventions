@@ -120,6 +120,7 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 - [How we scaled Celery for our Django app](https://vedantsopinions.medium.com/how-we-scaled-celery-for-our-django-app-da2465a3a6be)
 - [Key Insights to Celery](https://sanchit-ahuja.medium.com/key-insights-to-celery-29e840d5df6d)
 - [A complete guide to production-ready Celery configuration](https://progressstory.com/tech/python/production-ready-celery-configuration/)
+- [Celery throttling — настраивам rate limit для очередей](https://habr.com/ru/post/494090/)
 
 
 ## Extensions
