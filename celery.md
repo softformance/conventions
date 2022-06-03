@@ -121,6 +121,8 @@ Taken from [50 shades of celery](https://sudonull.com/post/6810-50-shades-of-cel
 - [Key Insights to Celery](https://sanchit-ahuja.medium.com/key-insights-to-celery-29e840d5df6d)
 - [A complete guide to production-ready Celery configuration](https://progressstory.com/tech/python/production-ready-celery-configuration/)
 - [Celery throttling — настраивам rate limit для очередей](https://habr.com/ru/post/494090/)
+- [Celery on multiple servers](https://vismay-t.medium.com/celery-on-multiple-servers-5e561b3b36d7)
+- [Celery ETA Tasks Demystified](https://engineering.instawork.com/celery-eta-tasks-demystified-424b836e4e94)
 
 
 ## Extensions
