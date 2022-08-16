@@ -37,9 +37,7 @@ Example of nesting apps:
 
 ## Recommended apps
 
-[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)! Django has [many apps available](https://djangopackages.org/), and a lot of them can help you to develop your project in a cleaner and faster way. Here is a list of curated list of apps that can help you:
-
-https://raw.githubusercontent.com/sthima/django-styleguide/master/README.md
+[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)! Django has [many apps available](https://djangopackages.org/), and a lot of them can help you to develop your project in a cleaner and faster way. Take a look also at [Awesome-Django](https://github.com/wsvincent/awesome-django) project. Here is a list of curated list of apps that can help you:https://raw.githubusercontent.com/sthima/django-styleguide/master/README.md. We are planning to create our own recommended list of Django apps which you can use. 
 .....
 
 
