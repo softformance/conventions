@@ -54,3 +54,4 @@ Using low-level ORM code directly in a view is an anti-pattern.
 - [Hacker News: thread about "fat models vs service layers"](https://news.ycombinator.com/item?id=23325113)
 - [Reddit: Business logic in django](https://www.reddit.com/r/django/comments/kce30r/business_logic_in_django/)
 - [Medium: Business Logic in Django projects](https://jairvercosa.medium.com/business-logic-in-django-projects-7fe700db9b0a) - M**U**VT - Use cases execute the business logic and run the side effects. 
+- [Django Forum: Where to put business logic in Django?](https://forum.djangoproject.com/t/where-to-put-business-logic-in-django/282)
